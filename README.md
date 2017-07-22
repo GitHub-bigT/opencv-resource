@@ -3,7 +3,7 @@
 下载资源地址：https://github.com/opencv/opencv_3rdparty/branches/all
 
 ## ffmpeg问题：
-`CMake Error at cmake/OpenCVUtils.cmake:1043 (file):
+``CMake Error at cmake/OpenCVUtils.cmake:1043 (file):
 
 file DOWNLOAD HASH mismatch
 
@@ -13,7 +13,7 @@ expected hash: [f081abd9d6ca7e425d340ce586f9c090]
 
 actual hash: [d41d8cd98f00b204e9800998ecf8427e]
 
-status: [7;"Couldn't connect to server"]`
+status: [7;"Couldn't connect to server"]``
 
 `Call Stack (most recent call first):
 
